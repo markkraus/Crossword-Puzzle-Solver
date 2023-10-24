@@ -1,5 +1,10 @@
-The main file to run is CrosswordTest.java.
+# Crossword-Solver
+Data Structures used:<br>
+- StringBuilders<br>
+- HashMaps<br>
+- Recursion<br>
+- Backtracking algorithm<br>
 
-Compile Crossword.java & CrosswordTest.java
-
-To run: java CrosswordTest dict8.txt <testFile.txt>
+# How to Run
+javac *.java<br>
+java CrosswordTest dict8.txt <testFile.txt> (EX: _java CrosswordTest dict8.txt test3a.txt_)
